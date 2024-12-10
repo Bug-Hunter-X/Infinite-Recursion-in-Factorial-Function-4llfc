@@ -1,0 +1,1 @@
+This repository demonstrates a common error in recursive functions: infinite recursion. The factorial function does not handle negative inputs, leading to a stack overflow. The solution provides a robust implementation.
